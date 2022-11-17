@@ -1,2 +1,3 @@
-# Product_Preview_Card
-Frontend_Mentor_Challenge : Product_Preview_Card
+![Design preview](./design/desktop-preview.jpg)
+
+## Welcome!
